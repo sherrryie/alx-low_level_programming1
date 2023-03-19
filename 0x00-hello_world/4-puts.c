@@ -1,6 +1,6 @@
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main - This is the main function
+ * main . This is the main function
  * Return: Always 0 (success)
  */
 int main(void)
